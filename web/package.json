@@ -957,6 +957,10 @@
     "docs:dev": "vuepress dev .",
     "docs:eject-theme": "vuepress eject-hope ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igijon/igijon.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
