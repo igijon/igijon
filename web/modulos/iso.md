@@ -19,13 +19,14 @@ tag:
   
 # You can customize the footer
 footer: SGE
+article: true
 comment: false
 ---
 
 ## Introducción
 
 <p style="text-align:center;">
-  <img src="/assets/img/iso.jpeg" width="100%"/>
+  <img src="/assets/img/modulos/iso.jpeg" width="100%"/>
 </p>
 
 <!-- more -->
@@ -40,26 +41,26 @@ En este módulo aprendemos a configurar, administrar y mantener sistemas inform�
 
 ## Utilizaremos ...
 
-### VirtualBox.
+### VirtualBox
 
 <p style="text-align:center;">
-  <a href="https://www.virtualbox.org/" target="_blank"><img src="/assets/img/virtualbox.jpeg" width=100%/></a>
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="/assets/img/modulos/virtualbox.jpeg" width=100%/></a>
 </p>
 
 ### Ubuntu 20.04
 
 <p style="text-align:center;">
-  <a href="https://releases.ubuntu.com/20.04/" target="_blank"><img src="/assets/img/ubuntu.jpeg" width=100%/></a>
+  <a href="https://releases.ubuntu.com/20.04/" target="_blank"><img src="/assets/img/modulos/ubuntu.jpeg" width=100%/></a>
 </p>
 
-### Windows 10.
+### Windows 10
 
 <p style="text-align:center;">
-  <a href="https://www.microsoft.com/es-es/software-download/windows10ISO" target="_blank"><img src="/assets/img/windows10.jpeg" width=100%/></a>
+  <a href="https://www.microsoft.com/es-es/software-download/windows10ISO" target="_blank"><img src="/assets/img/modulos/windows10.jpeg" width=100%/></a>
 </p>
 
 ### Windows Server 2019
 
 <p style="text-align:center;">
-  <a href="https://www.microsoft.com/es-es/windows-server" target="_blank"><img src="/assets/img/windowsserver.png" width=100%/></a>
+  <a href="https://www.microsoft.com/es-es/windows-server" target="_blank"><img src="/assets/img/modulos/windowsserver.png" width=100%/></a>
 </p>

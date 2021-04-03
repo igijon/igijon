@@ -26,7 +26,7 @@ module.exports = config({
   ],
 
   themeConfig: {
-    logo: "./logo.png",
+    logo: "/assets/icon/logo.png",
     hostname: "https://inmagijon.netlify.app",
 
     author: "Inma Gijón",
@@ -63,7 +63,7 @@ module.exports = config({
       },
       {
         text: "Contacto",
-        link: "emailto:igijoninf@cifpvirgendegracia.com",
+        link: "mailto:igijoninf@cifpvirgendegracia.com",
         icon: "profile"
       }
     ],

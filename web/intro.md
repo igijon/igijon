@@ -2,7 +2,8 @@
 icon: info
 comment: false
 sidebar: false
-article: true
+sticky: false
+article: false
 ---
 
 # Sobre mí.
@@ -17,9 +18,9 @@ Actualmente imparto clases de:
 
 ::: tip Formación Profesional Reglada
 En los ciclos formativos de grado superior de:
-- [Desarrollo de Aplicaciones Web](https://informaticacifpvg.netlify.app/fp_reglada/daw/), impartiendo el módulo de [Desarrollo Web en Entorno Cliente](/modulos/dwec/)
-- [Desarrollo de Aplicaciones Multiplataforma](https://informaticacifpvg.netlify.app/fp_reglada/dam/), impartiendo el módulo de [Sistemas de Gestión Empresarial](/modulos/sge/)
-- [Administración de Sistemas Informáticos en Red E-Learning](https://informaticacifpvg.netlify.app/fp_reglada/asir-e/), impartiendo el módulo de [Implantación de Sistemas Operativos](/modulos/iso/)
+- [Desarrollo Web en Entorno Cliente](/modulos/dwec/) en el Ciclo Formativo de [Desarrollo de Aplicaciones Web](https://informaticacifpvg.netlify.app/fp_reglada/daw/)
+- [Sistemas de Gestión Empresarial](/modulos/sge/) en el Ciclo Formativo de [Desarrollo de Aplicaciones Multiplataforma](https://informaticacifpvg.netlify.app/fp_reglada/dam/)
+- [Implantación de Sistemas Operativos](/modulos/iso/) en el Ciclo Formativo de [Administración de Sistemas Informáticos en Red E-Learning](https://informaticacifpvg.netlify.app/fp_reglada/asir-e/) 
 :::
 
 ::: tip Formación Profesional para el Empleo

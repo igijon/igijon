@@ -15,7 +15,8 @@ tag:
   - SGE
   - Odoo
   - ERP
-  
+article: true
+star: true
 # You can customize the footer
 footer: SGE
 comment: false
@@ -24,7 +25,7 @@ comment: false
 ## Introducción
 
 <p style="text-align:center; width:100%">
-  <img src="/assets/img/sge.jpeg" />
+  <img src="/assets/img/modulos/sge.jpeg" />
 </p>
 
 <!-- more -->
@@ -43,26 +44,26 @@ Durante el curso, trabajamos con un ERP **Open Source** [Odoo](https://www.odoo.
 
 ## Utilizaremos ...
 
-### Python 3.
+### Python 3
 
 <p style="text-align:center;">
-  <img src="/assets/img/python.png" width=100%/>
+  <img src="/assets/img/modulos/python.png" width=100%/>
 </p>
 
 [Repositorio ejemplos Python](https://github.com/igijon/sge2021_python):computer:
 
-### Ubuntu Server 20.04.
+### Ubuntu Server 20.04
 
 <p style="text-align:center;">
-  <a href="https://ubuntu.com/download/server" target="_blank"><img src="/assets/img/ubuntuserver.jpeg" width=100%/></a>
+  <a href="https://ubuntu.com/download/server" target="_blank"><img src="/assets/img/modulos/ubuntuserver.jpeg" width=100%/></a>
 </p>
 
 Es el Server donde montaremos el servicio de Odoo.
 
-### Odoo 13.
+### Odoo 13
 
 <p style="text-align:center;">
-  <a href="https://www.odoo.com/es_ES/" target="_blank"><img src="/assets/img/odoo.jpeg" width=100%/></a>
+  <a href="https://www.odoo.com/es_ES/" target="_blank"><img src="/assets/img/modulos/odoo.jpeg" width=100%/></a>
 </p>
 
 [Repositorio ejemplos módulos en Python para Odoo](https://github.com/igijon/sge2021_odoo_python):computer:
