@@ -24,8 +24,8 @@ comment: false
 
 ## Introducción
 
-<p style="text-align:center; width:100%">
-  <img src="/assets/img/modulos/sge.jpeg" />
+<p style="text-align:center;">
+  <img src="/assets/img/modulos/sge.jpeg" width="100%"/>
 </p>
 
 <!-- more -->
