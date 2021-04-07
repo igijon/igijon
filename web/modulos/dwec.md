@@ -8,7 +8,7 @@ author: Inma Gijón
 # Set writing time
 # A page can only have one category
 time: 2021-04-02
-category: DWEC
+category: Desarrollo Web
 # A page can have multiple tags
 tag:
   - Desarrollo Web 

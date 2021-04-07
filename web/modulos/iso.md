@@ -7,7 +7,7 @@ title: Implantación de Sistemas Operativos
 author: Inma Gijón
 time: 2021-04-02
 # A page can only have one category
-category: ISO
+category: Sistemas Operativos
 # A page can have multiple tags
 tag:
   - ISO

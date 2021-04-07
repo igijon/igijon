@@ -8,7 +8,7 @@ author: Inma Gijón
 # Set writing time
 time: 2021-04-02
 # A page can only have one category
-category: SGE
+category: Sistemas de Gestión Empresarial
 # A page can have multiple tags
 tag:
   - Python
