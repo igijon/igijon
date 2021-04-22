@@ -1,8 +1,8 @@
 ---
 icon: vue
-title: Páginas web estáticas con Vuepress
+title:  
 author: Inma Gijón
-time: 2021-04-04
+time: 2021-04-20
 category: Desarrollo Web
 tag:
   - Desarrollo Web 
