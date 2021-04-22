@@ -1,5 +1,5 @@
 ---
-icon: vue
+icon: class
 title: PlantUML
 author: Inma Gijón
 time: 2021-04-21
