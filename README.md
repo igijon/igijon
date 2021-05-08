@@ -29,6 +29,6 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
 </p>
 
 <p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
+   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=ff69b4&style=flat" alt="Inma Gijón" />
 </p>
 
