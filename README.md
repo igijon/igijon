@@ -21,8 +21,6 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
     height="60"> 
     </a> 
 </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
-
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
