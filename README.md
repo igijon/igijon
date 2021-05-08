@@ -8,7 +8,7 @@ El contenido de los repositorios que aparecen ha sido desarrollado con objetivos
 <h2 align="center">Contacto</h2>
 <p align="center">
     <a href="https://twitter.com/InmaculadaGijn1" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4wNv4J_kky16Vh-NBfg4f8x6g9IFZ-arQcUNqJoZvhAE7w4JF5a2wxW_MqBHXQMXqGc&usqp=CAU" 
+        <img src="https://cdn.icon-icons.com/icons2/895/PNG/512/Twitter_icon_icon-icons.com_69154.png" 
     height="60">
     </a> &nbsp;&nbsp;
      <a href="https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w" target="_blank">
@@ -16,7 +16,7 @@ El contenido de los repositorios que aparecen ha sido desarrollado con objetivos
     height="60">
     </a>  &nbsp;&nbsp;
     <a href="https://igijon.netlify.app/" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1875/PNG/512/web_120072.png" 
+        <img src="https://avant2.es/wp-content/uploads/2020/02/icono-web.png" 
     height="60">
     </a>
    
