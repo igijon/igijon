@@ -23,7 +23,7 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
 </p>
 <h2 align="center">Despliegues</h2>
 
-- Despliegue [página web](https://igijon.netlify.app/) [![GitHub repo](https://image.flaticon.com/icons/png/512/3291/3291695.png)](https://github.com/igijon/igijon) [![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
+- Despliegue [página web](https://igijon.netlify.app/) [![GitHub repo](https://image.flaticon.com/icons/png/512/3291/3291695.png =30px)](https://github.com/igijon/igijon) [![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
