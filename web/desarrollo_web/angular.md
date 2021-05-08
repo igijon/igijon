@@ -1,6 +1,6 @@
 ---
 icon: angular
-title:
+title: Angular 11
 author: Inma Gijón
 time: 2021-05-08
 category: Desarrollo Web
