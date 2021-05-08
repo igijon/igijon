@@ -86,6 +86,7 @@ module.exports = config({
       sidebarDisplay: "mobile",
       links: {
         Github: "https://github.com/igijon",
+        Youtube: "https://www.youtube.com/channel/UCDC8YnQsB0eRoM-u_qq200w",
         Twitter: "https://twitter.com/InmaculadaGijn1",
         Linkedin: "https://www.linkedin.com/in/inmaculada-gij%C3%B3n-cardos-38651656/"
       },

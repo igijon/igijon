@@ -10,7 +10,7 @@ article: false
 
 Mi nombre es Inmaculada Gijón Cardos. 
 
-Soy profesora técnica en la especialidad de Sistemas y Aplicaciones Informáticas. Formo parte del [Departamento de Informática y Comunicaciones](https://informaticacifpvg.netlify.app/) en el [CIFP Virgen de Gracia](https://cifpvirgendegracia.com/). 
+Soy profesora en la especialidad de Sistemas y Aplicaciones Informáticas. Formo parte del [Departamento de Informática y Comunicaciones](https://informaticacifpvg.netlify.app/) en el [CIFP Virgen de Gracia](https://cifpvirgendegracia.com/). 
 
 <!-- more -->
 
