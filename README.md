@@ -18,14 +18,12 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
     </a>  &nbsp;&nbsp;
     <a href="https://igijon.netlify.app/" target="_blank">
         <img src="https://avant2.es/wp-content/uploads/2020/02/icono-web.png" 
-    height="60">
-    </a>
+    height="60"> 
+    </a> 
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
+
    
 </p>
-
-Estado de despliegue de mi web personal:
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
