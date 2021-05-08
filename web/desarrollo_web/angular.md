@@ -15,7 +15,7 @@ article: true
 comment: false
 ---
 
-## Angular 11
+## Curso desde cero
 
 Si quieres construir una aplicación web paso a paso con [Angular](https://angular.io/) en la que consumirás servicios API REST públicos como [Studio Ghibli API](https://ghibliapi.herokuapp.com/) con integración con [Youtube Data API](https://developers.google.com/youtube/v3)... sigue los vídeos que se están subiendo en el [canal](https://www.youtube.com/playlist?list=PLKBxfVADNf1UJS3RcK0QVk3_CIKgYeDIl).
 
