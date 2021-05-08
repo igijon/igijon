@@ -23,7 +23,9 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
 </p>
 <h2 align="center">Despliegues</h2>
 
-- Despliegue [página web](https://igijon.netlify.app/) [![GitHub repo](https://image.flaticon.com/icons/png/512/3291/3291695.png){:width="25px"}](https://github.com/igijon/igijon) [![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
+<p>
+  - Despliegue <a href="https://igijon.netlify.app/" target="_blank">Página Web Personal</a><a href="https://github.com/igijon/igijon" target="_blank"><img src="https://image.flaticon.com/icons/png/512/3291/3291695.png" alt="Repositorio" width="25px"></a><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status"/>
+</p>
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
