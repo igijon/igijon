@@ -3,7 +3,8 @@
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
-El contenido de los repositorios que aparecen ha sido desarrollado con objetivos docentes. Puedes utilizarlo y si tienes dudas ponerte en contacto conmigo.
+El contenido de los repositorios que aparecen bajo este perfil ha sido desarrollado con objetivos docentes.
+Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
 
 <h2 align="center">Contacto</h2>
 <p align="center">
@@ -21,6 +22,10 @@ El contenido de los repositorios que aparecen ha sido desarrollado con objetivos
     </a>
    
 </p>
+
+Estado de despliegue de mi web personal:
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=42b983&style=flat" alt="Inma Gijón" />
