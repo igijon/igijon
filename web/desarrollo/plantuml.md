@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/desarrollo/plantuml.png
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/desarrollo/plantuml.png
 icon: class 
 title: PlantUML
 author: Inma Gijón

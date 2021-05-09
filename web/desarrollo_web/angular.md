@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/desarrollo/angular.png
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/desarrollo/angular.png
 icon: angular
 title: Angular 11
 author: Inma Gijón

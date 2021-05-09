@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/modulos/iso.jpeg
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/modulos/iso.jpeg
 # This is the icon of the page
 icon: shell
 # This is the title of the article

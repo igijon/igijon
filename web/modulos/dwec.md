@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/modulos/dwec.jpeg
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/modulos/dwec.jpeg
 # This is the icon of the page
 icon: javascript
 # This is the title of the article

@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/desarrollo/vuepress.png
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/desarrollo/vuepress.png
 icon: vue
 title:  
 author: Inma Gijón

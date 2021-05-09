@@ -1,4 +1,9 @@
 ---
+meta: 
+  - property: "og:image"
+    content: /assets/img/banyanraiz.jpeg
+  - name: "twitter:image:src"
+    content: https://igijon.netlify.app/assets/img/banyanraiz.jpeg
 icon: read
 title: Módulos
 author: Inma Gijón
