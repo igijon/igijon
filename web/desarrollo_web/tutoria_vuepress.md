@@ -1,9 +1,9 @@
 ---
 meta: 
   - property: "og:image"
-    content: /assets/img/desarrollo/vuepress.png
+    content: /assets/img/desarrollo/cursoVuepress.jpg
   - name: "twitter:image:src"
-    content: https://igijon.netlify.app/assets/img/desarrollo/vuepress.png
+    content: https://igijon.netlify.app/assets/img/desarrollo/cursoVuepress.jpg
 icon: vue
 title: Vuepress
 author: Inma Gijón
