@@ -24,8 +24,8 @@ Puedes utilizar este material y si tienes dudas ponerte en contacto conmigo.
 <h2 align="center">Despliegues</h2>
 
 <p>
-  - Despliegue <a href="https://igijon.netlify.app/" target="_blank">Página Web Personal</a> &nbsp;&nbsp; <a href="https://github.com/igijon/igijon" target="_blank"><img src="https://image.flaticon.com/icons/png/512/3291/3291695.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/igijon/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status"/></a><br>
-  - Despliegue <a href="https://informaticacifpvg.netlify.app/" target="_blank">Página Web Departamento de Informática</a> &nbsp;&nbsp; <a href="https://github.com/igijon/inf_com_dep_CIFP_VG" target="_blank"><img src="https://image.flaticon.com/icons/png/512/3291/3291695.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/informaticacifpvg/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status"/></a>
+  - Despliegue <a href="https://igijon.netlify.app/" target="_blank">Página Web Personal</a> &nbsp;&nbsp; <a href="https://github.com/igijon/igijon" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/igijon/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status"/></a><br>
+  - Despliegue <a href="https://informaticacifpvg.netlify.app/" target="_blank">Página Web Departamento de Informática</a> &nbsp;&nbsp; <a href="https://github.com/igijon/inf_com_dep_CIFP_VG" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/informaticacifpvg/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status"/></a>
 </p>
 
 <p align="center"> 
