@@ -1,4 +1,4 @@
-# <img src="./images/sticker.png" width=10%/> Hola! Mi nombre es Inma
+# <img src="./images/sticker.png" width=10%/ align=right> Hola! Mi nombre es Inma
 
 **Profesora en Formación Profesional de Informática** 💻 
   <a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
