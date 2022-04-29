@@ -30,6 +30,3 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 [![NetlifyDepartamento](https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status)](https://app.netlify.com/sites/informaticacifpvg/deploys)
 
 <br>
- <p align="center">
-   <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
