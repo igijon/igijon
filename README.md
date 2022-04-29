@@ -1,7 +1,8 @@
-# <img src="./images/sticker.png" width=10%/ align=right> Hola! Mi nombre es Inma
+# <img src="./images/sticker.png" width=10% align=right /> Hola! Mi nombre es Inma
 
 **Profesora en Formación Profesional de Informática** 💻 
-  <a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
+
+<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
@@ -20,12 +21,12 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 
 ## Despliegues
 
-<p>
-  - Despliegue <a href="https://igijon.netlify.app/" target="_blank">Página Web Personal</a> &nbsp;&nbsp; <a href="https://github.com/igijon/igijon" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/igijon/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status"/></a><br>
-  - Despliegue <a href="https://informaticacifpvg.netlify.app/" target="_blank">Página Web Departamento de Informática</a> &nbsp;&nbsp; <a href="https://github.com/igijon/inf_com_dep_CIFP_VG" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Repositorio" width="25px"></a>&nbsp;&nbsp;<a href="https://app.netlify.com/sites/informaticacifpvg/deploys" target="_blank"><img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status"/></a>
-</p>
+[![WebPersonal](https://img.shields.io/badge/Web_Personal-pink?style=for-the-badge&logo=About.me&logoColor=black)](https://igijon.netlify.app/)[![GithubPersonal](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/igijon/igijon)[![NetlifyPersonal](https://api.netlify.com/api/v1/badges/4501457f-083e-4ef0-a8ef-b6c94c0f41d2/deploy-status)](https://app.netlify.com/sites/igijon/deploys)
+<br>
 
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=ff69b4&style=flat" alt="Inma Gijón" />
-</p>
+[![WebDepartamento](https://img.shields.io/badge/Web_Departamento-green?style=for-the-badge&logo=About.me&logoColor=white)](https://informaticacifpvg.netlify.app/)[![GithubDepartamento](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CIFP-Virgen-de-Gracia/inf_com_dep_CIFP_VG)[![NetlifyDepartamento](https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status)](https://app.netlify.com/sites/informaticacifpvg/deploys)
+
+<br>
+ 
+<img src="https://komarev.com/ghpvc/?username=igijon&label=Views&color=ff69b4&style=flat" alt="Inma Gijón" />
 
