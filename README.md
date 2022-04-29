@@ -30,11 +30,6 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 [![NetlifyDepartamento](https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status)](https://app.netlify.com/sites/informaticacifpvg/deploys)
 
 <br>
-
-<img src='https://visitor-badge-reloaded.herokuapp.com/badge?page_id=igijon&logo=Github&style=for-the-badge&color=16a085'>
-    <a href='https://github.com/mrhrifat?tab=followers'>
-        <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/mrhrifat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
-    </a>
  
  <p align="center">
    <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.svg" alt="snake">
