@@ -29,6 +29,34 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 [![WebDepartamento](https://img.shields.io/badge/Web_Departamento-green?style=for-the-badge&logo=About.me&logoColor=white)](https://informaticacifpvg.netlify.app/)[![GithubDepartamento](https://img.shields.io/badge/Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CIFP-Virgen-de-Gracia/inf_com_dep_CIFP_VG) 
 [![NetlifyDepartamento](https://api.netlify.com/api/v1/badges/4c7f9ef1-f6f7-4066-a6d8-84d447459e11/deploy-status)](https://app.netlify.com/sites/informaticacifpvg/deploys)
 
+## ⚡ Tecnologías más usadas
+
+### 🚀 Lenguajes
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Librerías & Frameworks 
+
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igijon&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igijon&hide_border=true&theme=radical" />
+</p>
+
 <br>
 
  <p align="center">
