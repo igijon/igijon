@@ -68,5 +68,5 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 <br>
 
  <p align="center">
-   <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.gif" alt="snake">
 </p>
