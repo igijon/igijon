@@ -60,12 +60,4 @@ El contenido de los repositorios que puedes encontrar ha sido desarrollado con o
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 
 
-## 📈 Estadísticas
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=igijon&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=igijon&hide_border=true&theme=radical" />
-</p>
-<br>
- <p align="center">
-   <img src="https://github.com/igijon/igijon/blob/output/github-contribution-grid-snake.gif" alt="snake">
-</p>
+## 📈 Trabajando en...
