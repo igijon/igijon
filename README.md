@@ -6,7 +6,7 @@
    borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
 </p>
 
-Especialmente interesada en el desarrollo de software y actualmente impartiendo módulos de desarrollo en los ciclos formativos de Desarrollo de Aplicaciones Web y Desarrollo de Aplicaciones Multiplataforma.
+Especialmente interesada en el desarrollo de software, VR, AR e IA. Impartiendo módulos de desarrollo en los ciclos formativos de Desarrollo de Aplicaciones Web, Desarrollo de Aplicaciones Multiplataforma y Cursos de Especialización de Desarrollo de Videojuegos y RV y Big Data e Inteligencia Artificial.
 
 El contenido de los repositorios que puedes encontrar ha sido desarrollado con objetivos docentes. Si dudas, contacta.
 
